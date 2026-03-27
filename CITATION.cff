@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "RL-DE: Reinforcement Learning-Controlled Differential Evolution with L-BFGS Refinement"
+authors:
+  - family-names: "Cao"
+    given-names: "Yang"
+    affiliation: "Shenyang Jianzhu University"
+  - family-names: "Wu"
+    given-names: "Bingchuan"
+    affiliation: "Shenyang Jianzhu University"
+  - family-names: "Wen"
+    given-names: "Miao"
+    affiliation: "Shenyang Jianzhu University"
+date-released: 2026
+version: "1.0.0"
+repository-code: "https://github.com/YOUR_USERNAME/rl-de"
+license: MIT
+keywords:
+  - differential evolution
+  - reinforcement learning
+  - policy gradient
+  - parameter control
+  - L-BFGS
+  - optimization
+  - evolutionary computation
+  - continuous optimization
+abstract: "RL-DE is a novel optimization framework that integrates reinforcement learning-based parameter control with differential evolution and quasi-Newton local refinement. It features a three-layer collaborative framework consisting of PG-Tuner (policy gradient-based six-dimensional parameter controller), two-stage mutation strategy switching, and LB-Refiner (L-BFGS-based local refinement module)."
+preferred-citation:
+  type: article
+  title: "Reinforcement learning-controlled differential evolution with L-BFGS refinement"
+  authors:
+    - family-names: "Cao"
+      given-names: "Yang"
+    - family-names: "Wu"
+      given-names: "Bingchuan"
+    - family-names: "Wen"
+      given-names: "Miao"
+  journal: "PLOS ONE"
+  year: 2026
